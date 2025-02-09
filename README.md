@@ -1,4 +1,4 @@
-# ![Tor Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Tor-logo-2011-flat.svg)
+# ![Tor Logo](https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg)
 
 # 🌐 Tor IP Rotator
 
