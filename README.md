@@ -1,4 +1,11 @@
+# ![Tor Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Tor-logo-2011-flat.svg)
+
 # 🌐 Tor IP Rotator
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/JustSouichi/TorIp-Rotator/refs/heads/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/JustSouichi/TorIp-Rotator.svg)](https://github.com/JustSouichi/TorIp-Rotator/issues)
+[![GitHub stars](https://img.shields.io/github/stars/JustSouichi/TorIp-Rotator.svg?style=social&label=Stars)](https://github.com/JustSouichi/TorIp-Rotator/stargazers)
+
 
 **Automatically change your IP address every 3 seconds using Tor!** 🕵️‍♂️🔄
 
